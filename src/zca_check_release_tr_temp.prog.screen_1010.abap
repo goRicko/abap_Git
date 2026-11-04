@@ -1,6 +1,0 @@
-PROCESS BEFORE OUTPUT.
-  MODULE status_1010.
-  MODULE set_screen.
-
-PROCESS AFTER INPUT.
-  MODULE user_command_1010.
